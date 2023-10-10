@@ -32,3 +32,4 @@ If you are unsure about the results of a hypothesis test, it is always best to c
 2. https://xkcd.com/882/ 
 3. https://www.ft.com/content/846cc7a5-12ee-4a44-830e-11ad00f224f9 
 4. https://www.science.org/content/article/stanford-president-to-step-down-despite-probe-exonerating-him-of-research-misconduct
+5. https://docs.google.com/presentation/d/1-LrhffV4n62Njthr66i6v7p0kM-1aDTeDDebUAz9Bbs/edit#slide=id.g289aec357d2_0_1385
